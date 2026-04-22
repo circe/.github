@@ -1,0 +1,4 @@
+# syncs updates from the upstream repository
+update_config:
+  - base: main
+    upstream: typelevel/.github@main
